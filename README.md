@@ -1,24 +1,27 @@
 # `Github Flavoured Markdown`
 ## Checkboxes
-* [ ] External Link
-* [ ] Internal Link
-* [ ] Images
-* [ ] Emojis
-* [ ] Tables
+* [x] External Link
+* [x] Internal Link
+* [x] Images <a name="images"> </a>
+* [x] Emojis <a name="emojis"> </a>
+* [x] Tables <a name="tables"> </a>
 
-## External Link
+## [External Link](#external-link)
 [This is a link to github documentation](https://help.github.com/en)
 
-## Internal Link
+## [Internal Link](#internal-link)
 [This is a link to images folder](https://github.com/gokcete/authoring/tree/main/images)
 
-## Image
+## [Image](#images)
+
 ![Alt](https://github.com/gokcete/authoring/blob/main/images/logo.png)
 
-## Emoji
+## [Emoji](#emojis)
+
 :upside_down_face:
 
-## Table
+## [Table](#tables)
+
 | Names  | Class |
 |--------|-------|
 |John Doe| 1A    |
