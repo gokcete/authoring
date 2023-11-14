@@ -1,7 +1,7 @@
 # `Github Flavoured Markdown`
 ## Checkboxes
-* [x] External Link
-* [x] Internal Link
+* [x] External Link <a name="external-link"> </a>
+* [x] Internal Link <a name="internal-link"> </a>
 * [x] Images <a name="images"> </a>
 * [x] Emojis <a name="emojis"> </a>
 * [x] Tables <a name="tables"> </a>
